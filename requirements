@@ -2,4 +2,3 @@ streamlit
 requests
 pandas
 google-cloud-firestore
-firebase-admin
